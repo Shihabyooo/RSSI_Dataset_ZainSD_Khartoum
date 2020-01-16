@@ -1,0 +1,11 @@
+Data collected between September 2018 and December 2018.
+
+Hardware used: 
+----Primary Data Collection: Motorolla Moto G5 phone.
+----Secondary Data Collection (verification): Huawei ________ 3G USB Dongle (Service provider issued); manuallly from Android OS.
+----Primary Vehicle: Kia Morning (2014).
+
+Software used:
+----Data Collection: NetMonitor Lite (Android); Huawei dashboard (Windows); OS buil-in testing tools (Android).
+----Post Processing 1: Libreoffice v6.3.4
+----Post Processing 2: QGIS 3.10
